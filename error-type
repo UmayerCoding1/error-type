@@ -1,0 +1,6 @@
+1: storage is undefined = create a new file (manifest.json) . and past this => {
+      "permissions": ["storage"]
+    },
+
+
+2: 
